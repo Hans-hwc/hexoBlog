@@ -88,6 +88,7 @@ npm run build
 [Vue知识点总结](https://github.com/sunseekers/Vue)
 [Vue使用的element元素组件官网](https://element.faas.ele.me/#/zh-CN/component/button)
 
+[vue项目打包部署——nginx代理访问](https://blog.csdn.net/kaola_l/article/details/80497490)
 [基于Vue2.0+Vue-router构建一个简单的单页应用](https://www.cnblogs.com/fozero/p/6185492.html)
 [如何搭建一个vue项目(完整步骤)](http://www.cnblogs.com/haitaoli/p/10304193.html)
 [所谓的跨域（Cross-Origin），究竟是什么？——你所不知道浏览器跨域的小知识](https://blog.csdn.net/u011037503/article/details/78025072)
