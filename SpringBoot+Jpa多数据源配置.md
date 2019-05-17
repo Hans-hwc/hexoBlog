@@ -73,7 +73,7 @@ public class DataSourceConfig {
 @EnableJpaRepositories(
         entityManagerFactoryRef = "entityManagerFactoryPrimary",
         transactionManagerRef = "transactionManagerPrimary",
-        basePackages = {"com.infinitus.yunxiao_data.dao.primary"}) //设置Repository所在位置
+        basePackages = {"com.xxx.xxx.dao.primary"}) //设置Repository所在位置
 public class PrimaryConfig {
     @Autowired
     private JpaProperties jpaProperties;
@@ -138,7 +138,7 @@ public class SecondaryConfig {
         return builder
                 .dataSource(secondaryDataSource)
                 .properties(getVendorProperties(secondaryDataSource))
-                .packages("com.infinitus.yunxiao_data.entity.secondary") //设置实体类所在位置
+                .packages("com.xxx.xxx.entity.secondary") //设置实体类所在位置
                 .persistenceUnit("primaryPersistenceUnit")
                 .build();
     }

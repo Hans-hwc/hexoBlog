@@ -20,13 +20,13 @@ tags:
 ![](https://upload-images.jianshu.io/upload_images/2405826-2018869fbe46c723.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 3.配置hexo
-在next主题的配置文件中（\themes\next\_config.yml），新增如下内容：
+在next主题的配置文件中（\themes\next\ _config.yml），新增如下内容：
 ```
 # Online contact
 daovoice: true
 daovoice_app_id: 这里替换成你DaoVoice上的appid
 ```
-在\themes\next\layout\_partials\head.swig文件的最后，新增如下内容：
+在\themes\next\layout\ _partials\head.swig文件的最后，新增如下内容：
 ```
 {% if theme.daovoice %}
   <script>
