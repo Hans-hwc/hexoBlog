@@ -95,5 +95,4 @@ npm run build
 
 **往期文章推荐**
 [Vue安装浏览器开发工具](https://huangweicai.github.io/2019/05/12/Vue%E5%AE%89%E8%A3%85%E6%B5%8F%E8%A7%88%E5%99%A8%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/)
-[之前阅读vue语法时做的没经过整理的笔记](文档：Vue基础.note
-链接：http://note.youdao.com/noteshare?id=a7919e45ab6c36ec69ce142a13f9f8ef&sub=BECE63293B3443E2B0EF342D3E2EC21F)
+[之前阅读vue语法时做的没经过整理的笔记](http://note.youdao.com/noteshare?id=a7919e45ab6c36ec69ce142a13f9f8ef&sub=BECE63293B3443E2B0EF342D3E2EC21F)
