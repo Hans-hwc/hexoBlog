@@ -6,10 +6,10 @@ tags:
 - vue
 ---
 
-效果图
+**效果图**
 ![](https://upload-images.jianshu.io/upload_images/2405826-46bc6a710c61ac14.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-完整源码
+**完整源码**
 ```
 <template>  
   <div id="app">
@@ -73,6 +73,6 @@ export default {
 </script> 
 ```
 
-小结
+**小结**
 1.获取当前点击的是哪个button，通过el-radio-group的v-model="radio"来得到。radio在点击后，值会是label="代码仓库"其中的一个。
 2.component通过v-bind动态传值，进而达到切换tab内容的目的。

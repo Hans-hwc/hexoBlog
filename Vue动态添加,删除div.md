@@ -6,10 +6,10 @@ tags:
 - vue
 ---
 
-效果图
+**效果图**
 ![](https://upload-images.jianshu.io/upload_images/2405826-10d04b3f30b07b9c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-完整源码
+**完整源码**
 ```
 <template>
 
@@ -192,5 +192,5 @@ tags:
 </style>
 ```
 
-小结
+**小结**
 vue实现动态加载div，主要利用vue中的v-for指令，由于与数据源双向绑定的特性，可以通过修改数据源从而动态加载或删除div。
